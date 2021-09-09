@@ -1,7 +1,7 @@
 # Arduino Simon Says Game
 --> A Simon Says game using Arduino Hardware (4 LEDs, Joystick, Resistors)
 
-I recently missed a project in which we had to code a Simon Says game using a DAQ simulator in one of my university courses. I found this project very interesting and have also been trying to learn Arduino a lot better so I thought this would be a good chance to improve my skills.
+I recently missed a project in which we had to code a Simon Says game using a DAQ simulator in one of my university courses. I found this project very interesting and have also been trying to learn Arduino a lot better so I decided to complete the project  in  my own time as a hardware game as this would be a good chance to improve my skills.
 
  * Author: George Hollo
  * Date: 19/05/2021
